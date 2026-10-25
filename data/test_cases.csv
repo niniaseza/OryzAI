@@ -1,0 +1,13 @@
+﻿case_id,case_name,symptoms,expected_diagnosis,purpose
+T01,Blast Daun / Potong Leher,G01;G14,P01,"Gejala khas: R01, R02"
+T02,Hawar Daun Bakteri (Kresek),G02;G07,P02,"Gejala khas: R04, R05"
+T03,Tungro,G03;G07,P03,"Gejala khas: R06, R07"
+T04,Bercak Cokelat (Brown Spot),G04;G17,P04,"Gejala khas: R09, R10"
+T05,Hawar Pelepah (Sheath Blight),G05;G12,P05,"Gejala khas: R11, R12"
+T06,Busuk Batang (Stem Rot),G09;G10,P06,"Gejala khas: R13, R14"
+T07,Wereng Batang Cokelat (WBC),G08;G19,H01,"Gejala khas: R16, R17"
+T08,Penggerek Batang (Stem Borer),G11;G15,H02,"Gejala khas: R18, R19"
+T09,Walang Sangit,G16;G17,H03,"Gejala khas: R21, R22"
+T10,Keong Mas,G13;G20,H04,"Gejala khas: R23, R24"
+T11,Ulat Grayak / Hama Putih,G06;G22,H05,"Gejala khas: R25, R26"
+T12,Tikus Sawah,G18;G23,H06,"Gejala khas: R28, R29"
