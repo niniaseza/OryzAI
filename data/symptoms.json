@@ -1,0 +1,255 @@
+[
+  {
+    "id": "G01",
+    "label": "Bercak belah ketupat/mata di daun",
+    "category": "Daun",
+    "organ": "Daun",
+    "why": "Gejala ini mendukung: Blast Daun / Potong Leher.",
+    "description": "Bercak berbentuk belah ketupat/mata dengan pusat berwarna abu-abu/putih dan tepi cokelat.",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G02",
+    "label": "Ujung/tepi daun melepuh & mengering keputihan",
+    "category": "Daun",
+    "organ": "Daun",
+    "why": "Gejala ini mendukung: Hawar Daun Bakteri (Kresek).",
+    "description": "Ujung atau tepi daun melepuh, mengering berwarna keputihan/keabu-abuan (seperti terbakar), memanjang dari pinggir.",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G03",
+    "label": "Daun kuning kemerahan/oranye melengkung",
+    "category": "Daun",
+    "organ": "Daun",
+    "why": "Gejala ini mendukung: Tungro.",
+    "description": "Daun berwarna kuning kemerahan atau oranye mulai dari ujung melengkung ke bawah.",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G04",
+    "label": "Bercak bulat/oval cokelat tua tersebar di daun",
+    "category": "Daun",
+    "organ": "Daun",
+    "why": "Gejala ini mendukung: Bercak Cokelat (Brown Spot).",
+    "description": "Bercak kecil bulat/oval berwarna cokelat tua tersebar merata di permukaan daun.",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G06",
+    "label": "Daun menggulung / terpotong / transparan",
+    "category": "Daun",
+    "organ": "Daun",
+    "why": "Gejala ini mendukung: Ulat Grayak / Hama Putih.",
+    "description": "Daun menggulung, terpotong, atau terdapat garis-garis transparan mengering akibat jaringan daun dimakan.",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G05",
+    "label": "Bercak keabu-abuan/beras basah pada pelepah",
+    "category": "Pelepah dan batang",
+    "organ": "Daun / Pelepah",
+    "why": "Gejala ini mendukung: Hawar Pelepah (Sheath Blight).",
+    "description": "Bercak oval/oval tidak teratur seperti warna beras basah atau keabu-abuan pada pelepah dekat permukaan air.",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G09",
+    "label": "Pangkal batang dekat air membusuk kehitaman",
+    "category": "Pelepah dan batang",
+    "organ": "Batang",
+    "why": "Gejala ini mendukung: Busuk Batang (Stem Rot).",
+    "description": "Pangkal batang/pelepah dekat air membusuk, kehitaman, dan terasa lunak.",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G10",
+    "label": "Batang mudah patah/rebah",
+    "category": "Pelepah dan batang",
+    "organ": "Batang",
+    "why": "Gejala ini mendukung: Busuk Batang (Stem Rot).",
+    "description": "Batang mudah patah atau rebah sebelum waktunya.",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G11",
+    "label": "Lubang kecil pada batang disertai serbuk gergaji",
+    "category": "Pelepah dan batang",
+    "organ": "Batang",
+    "why": "Gejala ini mendukung: Penggerek Batang (Stem Borer).",
+    "description": "Terdapat lubang kecil pada batang disertai jelaga/kotoran serbuk gergaji.",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G12",
+    "label": "Butiran sklerotia / gumpalan benang di pelepah",
+    "category": "Pelepah dan batang",
+    "organ": "Batang / Pelepah",
+    "why": "Gejala ini mendukung: Hawar Pelepah (Sheath Blight), Busuk Batang (Stem Rot).",
+    "description": "Terdapat gumpalan bercak bercabang seperti sarang laba-laba atau butiran kecil cokelat (sklerotia) di dalam batang/pelepah.",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G13",
+    "label": "Batang terpotong di dekat pangkal tanah",
+    "category": "Pelepah dan batang",
+    "organ": "Batang",
+    "why": "Gejala ini mendukung: Keong Mas, Tikus Sawah.",
+    "description": "Batang terpotong di dekat pangkal tanah (terutama pada fase vegetatif awal).",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G14",
+    "label": "Pangkal leher malai membusuk cokelat kehitaman",
+    "category": "Malai dan bulir",
+    "organ": "Malai",
+    "why": "Gejala ini mendukung: Blast Daun / Potong Leher.",
+    "description": "Pangkal leher malai membusuk, berwarna cokelat kehitaman, dan patah/terkulai.",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G15",
+    "label": "Malai hampa berwarna putih tegak (sundep/beluk)",
+    "category": "Malai dan bulir",
+    "organ": "Malai",
+    "why": "Gejala ini mendukung: Penggerek Batang (Stem Borer).",
+    "description": "Malai muncul tetapi hampa total, berwarna putih tegak (sundep/beluk).",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G16",
+    "label": "Bulir hampa, mengkerut, berbau menyengat",
+    "category": "Malai dan bulir",
+    "organ": "Malai / Bulir",
+    "why": "Gejala ini mendukung: Walang Sangit.",
+    "description": "Bulir padi terasa hampa, mengkerut, dan berbau menyengat saat digesek/diremas.",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G17",
+    "label": "Bercak cokelat kehitaman pada kulit gabah",
+    "category": "Malai dan bulir",
+    "organ": "Malai / Bulir",
+    "why": "Gejala ini mendukung: Blast Daun / Potong Leher, Bercak Cokelat (Brown Spot), Walang Sangit.",
+    "description": "Terdapat bercak cokelat kehitaman atau kotoran pada kulit gabah.",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G18",
+    "label": "Malai/bulir terpotong/hilang acak di sawah",
+    "category": "Malai dan bulir",
+    "organ": "Malai / Bulir",
+    "why": "Gejala ini mendukung: Tikus Sawah.",
+    "description": "Malai atau bulir padi banyak yang terpotong/hilang secara acak di lorong/petakan sawah.",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G07",
+    "label": "Tanaman kerdil & pertumbuhan terhambat",
+    "category": "Warna dan pertumbuhan",
+    "organ": "Daun / Pertumbuhan",
+    "why": "Gejala ini mendukung: Hawar Daun Bakteri (Kresek), Tungro.",
+    "description": "Pertumbuhan tanaman kerdil, pertumbuhan terhambat, dan daun menjadi lebih kaku/tegak dibanding normal.",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G08",
+    "label": "Daun menguning serentak lalu layu (hopperburn)",
+    "category": "Warna dan pertumbuhan",
+    "organ": "Daun / Tanaman",
+    "why": "Gejala ini mendukung: Wereng Batang Cokelat (WBC).",
+    "description": "Daun menguning secara serentak dalam satu rumpun yang layu mendadak (hopperburn).",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G19",
+    "label": "Populasi serangga kecil cokelat di pangkal batang",
+    "category": "Tanda hama di lapangan",
+    "organ": "Tanda Lapangan",
+    "why": "Gejala ini mendukung: Tungro, Wereng Batang Cokelat (WBC).",
+    "description": "Ditemukan populasi serangga kecil cokelat berkumpul di pangkal batang dekat genangan air.",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G20",
+    "label": "Kelompok telur merah muda/pink di pelepah",
+    "category": "Tanda hama di lapangan",
+    "organ": "Tanda Lapangan",
+    "why": "Gejala ini mendukung: Keong Mas.",
+    "description": "Ditemukan kelompok telur berwarna merah muda/pink menyala di pelepah atau galengan.",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G21",
+    "label": "Kelompok telur terbungkus bulu cokelat di daun",
+    "category": "Tanda hama di lapangan",
+    "organ": "Tanda Lapangan",
+    "why": "Gejala ini mendukung: Penggerek Batang (Stem Borer).",
+    "description": "Ditemukan kelompok telur terbungkus bulu-bulu halus berwarna cokelat muda di permukaan atas daun.",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G22",
+    "label": "Ulat bertanduk/bergaris di balik daun",
+    "category": "Tanda hama di lapangan",
+    "organ": "Tanda Lapangan",
+    "why": "Gejala ini mendukung: Ulat Grayak / Hama Putih.",
+    "description": "Ditemukan keberadaan ulat bertanduk/bergaris di balik daun atau pangkal rumpun.",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "G23",
+    "label": "Kerusakan rumpun melingkar / jejak kaki dekat pematang",
+    "category": "Tanda hama di lapangan",
+    "organ": "Tanda Lapangan",
+    "why": "Gejala ini mendukung: Tikus Sawah.",
+    "description": "Ditemukan kotoran/jejak kaki serta kerusakan tanaman berbentuk rumpun melingkar atau terpotong rapi dekat pematang.",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  }
+]

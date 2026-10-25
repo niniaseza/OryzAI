@@ -1,0 +1,30 @@
+﻿rule_id,gejala_ids,gejala_teramati,diagnosis_id,diagnosis,cf_rule,peran_gejala,deskripsi_aturan,source_ids
+R01,G01,Bercak belah ketupat/mata di daun,P01,Blast Daun / Potong Leher,0.85,Gejala Utama,Bercak belah ketupat/mata di daun,DATASET_V2
+R02,G14,Pangkal leher malai membusuk cokelat kehitaman,P01,Blast Daun / Potong Leher,0.9,Gejala Spesifik,Pangkal leher malai membusuk cokelat kehitaman,DATASET_V2
+R03,G17,Bercak cokelat kehitaman pada kulit gabah,P01,Blast Daun / Potong Leher,0.6,Gejala Pendukung,Bercak cokelat kehitaman pada kulit gabah,DATASET_V2
+R04,G02,Ujung/tepi daun melepuh & mengering keputihan,P02,Hawar Daun Bakteri (Kresek),0.9,Gejala Utama,Ujung/tepi daun melepuh & mengering keputihan,DATASET_V2
+R05,G07,Tanaman kerdil & pertumbuhan terhambat,P02,Hawar Daun Bakteri (Kresek),0.5,Gejala Pendukung,Tanaman kerdil & pertumbuhan terhambat,DATASET_V2
+R06,G03,Daun kuning kemerahan/oranye melengkung,P03,Tungro,0.85,Gejala Utama,Daun kuning kemerahan/oranye melengkung,DATASET_V2
+R07,G07,Tanaman kerdil & pertumbuhan terhambat,P03,Tungro,0.8,Gejala Utama,Tanaman kerdil & daun kaku/tegak,DATASET_V2
+R08,G19,Populasi serangga kecil cokelat di pangkal batang,P03,Tungro,0.5,Gejala Vektor,Populasi serangga kecil cokelat di pangkal batang,DATASET_V2
+R09,G04,Bercak bulat/oval cokelat tua tersebar di daun,P04,Bercak Cokelat (Brown Spot),0.85,Gejala Utama,Bercak bulat/oval cokelat tua tersebar di daun,DATASET_V2
+R10,G17,Bercak cokelat kehitaman pada kulit gabah,P04,Bercak Cokelat (Brown Spot),0.65,Gejala Pendukung,Bercak cokelat kehitaman pada kulit gabah,DATASET_V2
+R11,G05,Bercak keabu-abuan/beras basah pada pelepah,P05,Hawar Pelepah (Sheath Blight),0.9,Gejala Utama,Bercak keabu-abuan/beras basah pada pelepah,DATASET_V2
+R12,G12,Butiran sklerotia / gumpalan benang di pelepah,P05,Hawar Pelepah (Sheath Blight),0.75,Gejala Spesifik,Butiran sklerotia / gumpalan benang di pelepah,DATASET_V2
+R13,G09,Pangkal batang dekat air membusuk kehitaman,P06,Busuk Batang (Stem Rot),0.85,Gejala Utama,Pangkal batang dekat air membusuk kehitaman,DATASET_V2
+R14,G10,Batang mudah patah/rebah,P06,Busuk Batang (Stem Rot),0.7,Gejala Pendukung,Batang mudah patah/rebah,DATASET_V2
+R15,G12,Butiran sklerotia / gumpalan benang di pelepah,P06,Busuk Batang (Stem Rot),0.8,Gejala Spesifik,Butiran sklerotia cokelat di dalam batang,DATASET_V2
+R16,G08,Daun menguning serentak lalu layu (hopperburn),H01,Wereng Batang Cokelat (WBC),0.9,Gejala Utama,Daun menguning serentak lalu layu (hopperburn),DATASET_V2
+R17,G19,Populasi serangga kecil cokelat di pangkal batang,H01,Wereng Batang Cokelat (WBC),0.95,Gejala Spesifik,Populasi serangga kecil cokelat di pangkal batang,DATASET_V2
+R18,G11,Lubang kecil pada batang disertai serbuk gergaji,H02,Penggerek Batang (Stem Borer),0.85,Gejala Utama,Lubang kecil pada batang disertai serbuk gergaji,DATASET_V2
+R19,G15,Malai hampa berwarna putih tegak (sundep/beluk),H02,Penggerek Batang (Stem Borer),0.9,Gejala Utama,Malai hampa berwarna putih tegak (sundep/beluk),DATASET_V2
+R20,G21,Kelompok telur terbungkus bulu cokelat di daun,H02,Penggerek Batang (Stem Borer),0.7,Tanda Hama,Kelompok telur terbungkus bulu cokelat di daun,DATASET_V2
+R21,G16,"Bulir hampa, mengkerut, berbau menyengat",H03,Walang Sangit,0.9,Gejala Utama,"Bulir hampa, mengkerut, berbau menyengat",DATASET_V2
+R22,G17,Bercak cokelat kehitaman pada kulit gabah,H03,Walang Sangit,0.6,Gejala Pendukung,Bercak kotoran pada kulit gabah,DATASET_V2
+R23,G13,Batang terpotong di dekat pangkal tanah,H04,Keong Mas,0.8,Gejala Utama,Batang terpotong di dekat pangkal tanah,DATASET_V2
+R24,G20,Kelompok telur merah muda/pink di pelepah,H04,Keong Mas,0.95,Tanda Hama,Kelompok telur merah muda/pink di pelepah,DATASET_V2
+R25,G06,Daun menggulung / terpotong / transparan,H05,Ulat Grayak / Hama Putih,0.85,Gejala Utama,Daun menggulung / terpotong / transparan,DATASET_V2
+R26,G22,Ulat bertanduk/bergaris di balik daun,H05,Ulat Grayak / Hama Putih,0.9,Tanda Hama,Ulat bertanduk/bergaris di balik daun,DATASET_V2
+R27,G13,Batang terpotong di dekat pangkal tanah,H06,Tikus Sawah,0.75,Gejala Utama,Batang terpotong rapi dekat pangkal,DATASET_V2
+R28,G18,Malai/bulir terpotong/hilang acak di sawah,H06,Tikus Sawah,0.85,Gejala Utama,Malai/bulir terpotong/hilang acak di sawah,DATASET_V2
+R29,G23,Kerusakan rumpun melingkar / jejak kaki dekat pematang,H06,Tikus Sawah,0.9,Tanda Hama,Kerusakan rumpun melingkar / jejak kaki dekat pematang,DATASET_V2
