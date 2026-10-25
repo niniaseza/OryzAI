@@ -1,0 +1,223 @@
+[
+  {
+    "id": "P01",
+    "name": "Blast Daun / Potong Leher",
+    "type": "Penyakit",
+    "scientific_name": "Pyricularia oryzae",
+    "category": "Penyakit (Jamur)",
+    "organ": "Daun, Leher Malai, Gabah",
+    "summary": "Penyakit golongan jamur. Bagian tanaman yang diserang: Daun, Leher Malai, Gabah.",
+    "symptom_ids": [
+      "G01",
+      "G14",
+      "G17"
+    ],
+    "recommendations": [
+      "Hayati/kultural: Tanam jajar legowo, kurangi pemupukan Nitrogen (Urea) berlebih, gunakan varietas tahan (Inpari 32, Inpari 42).",
+      "Kimiawi (rujukan bahan aktif): Semprot fungisida berbahan aktif Trisiklazol, Difenokonazol, atau Azoksistrobin pada fase bunting & pembentukan malai."
+    ],
+    "caution": "Diagnosis visual hanya dugaan awal. Bahan aktif di atas adalah rujukan; ikuti label produk dan anjuran penyuluh atau petugas perlindungan tanaman setempat."
+  },
+  {
+    "id": "P02",
+    "name": "Hawar Daun Bakteri (Kresek)",
+    "type": "Penyakit",
+    "scientific_name": "Xanthomonas oryzae pv. oryzae",
+    "category": "Penyakit (Bakteri)",
+    "organ": "Daun",
+    "summary": "Penyakit golongan bakteri. Bagian tanaman yang diserang: Daun.",
+    "symptom_ids": [
+      "G02",
+      "G07"
+    ],
+    "recommendations": [
+      "Hayati/kultural: Pengairan berselang (intermittent), hindari pemotongan ujung daun saat transplantasi, aplikasikan agens hayati Corynebacterium atau Pseudomonas fluorescens.",
+      "Kimiawi (rujukan bahan aktif): Semprot bakterisida berbahan aktif Tembaga Hidroksida atau Streptomisin Sulfat jika serangan > 15%."
+    ],
+    "caution": "Diagnosis visual hanya dugaan awal. Bahan aktif di atas adalah rujukan; ikuti label produk dan anjuran penyuluh atau petugas perlindungan tanaman setempat."
+  },
+  {
+    "id": "P03",
+    "name": "Tungro",
+    "type": "Penyakit",
+    "scientific_name": "Rice tungro bacilliform/spherical virus",
+    "category": "Penyakit (Virus)",
+    "organ": "Seluruh Tanaman (Sistemik)",
+    "summary": "Penyakit golongan virus. Bagian tanaman yang diserang: Seluruh Tanaman (Sistemik).",
+    "symptom_ids": [
+      "G03",
+      "G07",
+      "G19"
+    ],
+    "recommendations": [
+      "Hayati/kultural: Eradikasi/sabit tanaman terinfeksi (roguing), lakukan tanam serempak, kendalikan vektor utama (Wereng Hijau).",
+      "Kimiawi (rujukan bahan aktif): Aplikasikan insektisida sistemik berbahan aktif Imidakloprid atau Thiamethoxam untuk menekan populasi wereng penular virus."
+    ],
+    "caution": "Diagnosis visual hanya dugaan awal. Bahan aktif di atas adalah rujukan; ikuti label produk dan anjuran penyuluh atau petugas perlindungan tanaman setempat."
+  },
+  {
+    "id": "P04",
+    "name": "Bercak Cokelat (Brown Spot)",
+    "type": "Penyakit",
+    "scientific_name": "Bipolaris oryzae",
+    "category": "Penyakit (Jamur)",
+    "organ": "Daun, Gabah",
+    "summary": "Penyakit golongan jamur. Bagian tanaman yang diserang: Daun, Gabah.",
+    "symptom_ids": [
+      "G04",
+      "G17"
+    ],
+    "recommendations": [
+      "Hayati/kultural: Pemupukan berimbang (penambahan pupuk Kalium/K), perbaiki sanitasi & drainase lahan.",
+      "Kimiawi (rujukan bahan aktif): Semprot fungisida berbahan aktif Mankozeb atau Karbendazim jika bercak menyebar luas pada daun muda."
+    ],
+    "caution": "Diagnosis visual hanya dugaan awal. Bahan aktif di atas adalah rujukan; ikuti label produk dan anjuran penyuluh atau petugas perlindungan tanaman setempat."
+  },
+  {
+    "id": "P05",
+    "name": "Hawar Pelepah (Sheath Blight)",
+    "type": "Penyakit",
+    "scientific_name": "Rhizoctonia solani",
+    "category": "Penyakit (Jamur)",
+    "organ": "Pelepah, Daun Bawah",
+    "summary": "Penyakit golongan jamur. Bagian tanaman yang diserang: Pelepah, Daun Bawah.",
+    "symptom_ids": [
+      "G05",
+      "G12"
+    ],
+    "recommendations": [
+      "Hayati/kultural: Atur jarak tanam agar tidak terlalu rapat, semprot agens hayati jamur Trichoderma sp. pada pangkal rumpun.",
+      "Kimiawi (rujukan bahan aktif): Semprot fungisida berbahan aktif Heksakonazol atau Validamisin pada bagian pelepah bawah."
+    ],
+    "caution": "Diagnosis visual hanya dugaan awal. Bahan aktif di atas adalah rujukan; ikuti label produk dan anjuran penyuluh atau petugas perlindungan tanaman setempat."
+  },
+  {
+    "id": "P06",
+    "name": "Busuk Batang (Stem Rot)",
+    "type": "Penyakit",
+    "scientific_name": "Sclerotium oryzae",
+    "category": "Penyakit (Jamur)",
+    "organ": "Pangkal Batang",
+    "summary": "Penyakit golongan jamur. Bagian tanaman yang diserang: Pangkal Batang.",
+    "symptom_ids": [
+      "G09",
+      "G10",
+      "G12"
+    ],
+    "recommendations": [
+      "Hayati/kultural: Bakar atau komposkan jerami sisa panen terinfeksi, keringkan sawah pasca fase pembentukan anakan.",
+      "Kimiawi (rujukan bahan aktif): Semprot fungisida berbahan aktif Tiofanat Metil atau Difenokonazol pada pangkal batang."
+    ],
+    "caution": "Diagnosis visual hanya dugaan awal. Bahan aktif di atas adalah rujukan; ikuti label produk dan anjuran penyuluh atau petugas perlindungan tanaman setempat."
+  },
+  {
+    "id": "H01",
+    "name": "Wereng Batang Cokelat (WBC)",
+    "type": "Hama",
+    "scientific_name": "Nilaparvata lugens",
+    "category": "Hama (Serangga)",
+    "organ": "Pangkal Batang",
+    "summary": "Hama golongan serangga. Bagian tanaman yang diserang: Pangkal Batang.",
+    "symptom_ids": [
+      "G08",
+      "G19"
+    ],
+    "recommendations": [
+      "Hayati/kultural: Keringkan sawah secara berkala (intermittent), semprot jamur entomopatogen Beauveria bassiana, lestarikan musuh alami (laba-laba).",
+      "Kimiawi (rujukan bahan aktif): Insektisida berbahan aktif Pimetrozin, Buprofezin, atau Nitenpiram (Hindari bahan sintetis Piretroid karena resurgensi)."
+    ],
+    "caution": "Diagnosis visual hanya dugaan awal. Bahan aktif di atas adalah rujukan; ikuti label produk dan anjuran penyuluh atau petugas perlindungan tanaman setempat."
+  },
+  {
+    "id": "H02",
+    "name": "Penggerek Batang (Stem Borer)",
+    "type": "Hama",
+    "scientific_name": "Scirpophaga incertulas / Chilo suppressalis",
+    "category": "Hama (Serangga)",
+    "organ": "Batang Dalam, Malai",
+    "summary": "Hama golongan serangga. Bagian tanaman yang diserang: Batang Dalam, Malai.",
+    "symptom_ids": [
+      "G11",
+      "G15",
+      "G21"
+    ],
+    "recommendations": [
+      "Hayati/kultural: Kumpulkan dan musnahkan kelompok telur, genangi jerami setelah panen untuk membunuh larva di dalam batang.",
+      "Kimiawi (rujukan bahan aktif): Aplikasikan insektisida butiran (granul) Karbofuran / Klorantraniliprol pada tanah, atau semprot Dimehipo."
+    ],
+    "caution": "Diagnosis visual hanya dugaan awal. Bahan aktif di atas adalah rujukan; ikuti label produk dan anjuran penyuluh atau petugas perlindungan tanaman setempat."
+  },
+  {
+    "id": "H03",
+    "name": "Walang Sangit",
+    "type": "Hama",
+    "scientific_name": "Leptocorisa oratorius",
+    "category": "Hama (Serangga)",
+    "organ": "Malai, Bulir Muda",
+    "summary": "Hama golongan serangga. Bagian tanaman yang diserang: Malai, Bulir Muda.",
+    "symptom_ids": [
+      "G16",
+      "G17"
+    ],
+    "recommendations": [
+      "Hayati/kultural: Bersihkan gulma di sekitar pematang sawah, pasang umpan bangkai ikan/kepiting di pinggir lapangan.",
+      "Kimiawi (rujukan bahan aktif): Semprot insektisida berbahan aktif BPMC, Fipronil, atau Midaloprid pada pagi hari (pukul 06.00–09.00 saat serangga aktif)."
+    ],
+    "caution": "Diagnosis visual hanya dugaan awal. Bahan aktif di atas adalah rujukan; ikuti label produk dan anjuran penyuluh atau petugas perlindungan tanaman setempat."
+  },
+  {
+    "id": "H04",
+    "name": "Keong Mas",
+    "type": "Hama",
+    "scientific_name": "Pomacea canaliculata",
+    "category": "Hama (Mollusca)",
+    "organ": "Batang Muda / Vegetatif",
+    "summary": "Hama golongan moluska. Bagian tanaman yang diserang: Batang Muda / Vegetatif.",
+    "symptom_ids": [
+      "G13",
+      "G20"
+    ],
+    "recommendations": [
+      "Hayati/kultural: Tancapkan bilah bambu umpan untuk tempat bertelur lalu musnahkan, kutip keong mas secara manual di pagi hari.",
+      "Kimiawi (rujukan bahan aktif): Aplikasikan moluskisida berbahan aktif Niklosamida atau Metaldehida pada genangan air."
+    ],
+    "caution": "Diagnosis visual hanya dugaan awal. Bahan aktif di atas adalah rujukan; ikuti label produk dan anjuran penyuluh atau petugas perlindungan tanaman setempat."
+  },
+  {
+    "id": "H05",
+    "name": "Ulat Grayak / Hama Putih",
+    "type": "Hama",
+    "scientific_name": "Spodoptera litura / Nymphula depunctalis",
+    "category": "Hama (Serangga)",
+    "organ": "Helaian Daun",
+    "summary": "Hama golongan serangga. Bagian tanaman yang diserang: Helaian Daun.",
+    "symptom_ids": [
+      "G06",
+      "G22"
+    ],
+    "recommendations": [
+      "Hayati/kultural: Lepaskan parasitoid telur Trichogramma sp., atur genangan air sawah untuk menjatuhkan ulat.",
+      "Kimiawi (rujukan bahan aktif): Semprot insektisida berbahan aktif Klorantraniliprol atau Deltametrin jika tingkat kerusakan daun > 20%."
+    ],
+    "caution": "Diagnosis visual hanya dugaan awal. Bahan aktif di atas adalah rujukan; ikuti label produk dan anjuran penyuluh atau petugas perlindungan tanaman setempat."
+  },
+  {
+    "id": "H06",
+    "name": "Tikus Sawah",
+    "type": "Hama",
+    "scientific_name": "Rattus argentiventer",
+    "category": "Hama (Mamalia)",
+    "organ": "Batang, Rumpun",
+    "summary": "Hama golongan mamalia. Bagian tanaman yang diserang: Batang, Rumpun.",
+    "symptom_ids": [
+      "G13",
+      "G18",
+      "G23"
+    ],
+    "recommendations": [
+      "Hayati/kultural: Gropyokan massal awal musim, pasang Sistem Bubu Perangkap / TBS (Trap Barrier System), sanasi galengan.",
+      "Kimiawi (rujukan bahan aktif): Gunakan umpan beracun rodentisida berbahan aktif Seng Fosfida atau Brodifakum di lorong sarang active."
+    ],
+    "caution": "Diagnosis visual hanya dugaan awal. Bahan aktif di atas adalah rujukan; ikuti label produk dan anjuran penyuluh atau petugas perlindungan tanaman setempat."
+  }
+]
