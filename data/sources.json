@@ -1,0 +1,26 @@
+[
+  {
+    "source_id": "DATASET_V2",
+    "reference": "Dataset_Sistem_Pakar_Padi_versi2.xlsx (sheet Master Hama & Penyakit, Master Gejala, Aturan & CF Pakar, Rekomendasi Penanganan).",
+    "url": "",
+    "role": "Basis pengetahuan utama aplikasi: gejala, aturan, bobot CF pakar, dan rekomendasi penanganan."
+  },
+  {
+    "source_id": "IRRI_RKB",
+    "reference": "IRRI Rice Knowledge Bank (International Rice Research Institute).",
+    "url": "https://www.knowledgebank.irri.org/",
+    "role": "Rujukan yang disebut pada dataset untuk gejala dan penanganan."
+  },
+  {
+    "source_id": "BSIP_PADI",
+    "reference": "BSIP Padi, Kementerian Pertanian Republik Indonesia.",
+    "url": "",
+    "role": "Rujukan yang disebut pada dataset untuk gejala dan penanganan."
+  },
+  {
+    "source_id": "JUKNIS_OPT",
+    "reference": "Petunjuk teknis OPT, Direktorat Perlindungan Tanaman Pangan, Kementerian Pertanian RI.",
+    "url": "",
+    "role": "Rujukan yang disebut pada dataset untuk pengendalian organisme pengganggu tanaman."
+  }
+]
