@@ -1,0 +1,379 @@
+[
+  {
+    "id": "R01",
+    "antecedents": [
+      "G01"
+    ],
+    "disease_id": "P01",
+    "cf": 0.85,
+    "description": "Bercak belah ketupat/mata di daun",
+    "role": "Gejala Utama",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R02",
+    "antecedents": [
+      "G14"
+    ],
+    "disease_id": "P01",
+    "cf": 0.9,
+    "description": "Pangkal leher malai membusuk cokelat kehitaman",
+    "role": "Gejala Spesifik",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R03",
+    "antecedents": [
+      "G17"
+    ],
+    "disease_id": "P01",
+    "cf": 0.6,
+    "description": "Bercak cokelat kehitaman pada kulit gabah",
+    "role": "Gejala Pendukung",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R04",
+    "antecedents": [
+      "G02"
+    ],
+    "disease_id": "P02",
+    "cf": 0.9,
+    "description": "Ujung/tepi daun melepuh & mengering keputihan",
+    "role": "Gejala Utama",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R05",
+    "antecedents": [
+      "G07"
+    ],
+    "disease_id": "P02",
+    "cf": 0.5,
+    "description": "Tanaman kerdil & pertumbuhan terhambat",
+    "role": "Gejala Pendukung",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R06",
+    "antecedents": [
+      "G03"
+    ],
+    "disease_id": "P03",
+    "cf": 0.85,
+    "description": "Daun kuning kemerahan/oranye melengkung",
+    "role": "Gejala Utama",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R07",
+    "antecedents": [
+      "G07"
+    ],
+    "disease_id": "P03",
+    "cf": 0.8,
+    "description": "Tanaman kerdil & daun kaku/tegak",
+    "role": "Gejala Utama",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R08",
+    "antecedents": [
+      "G19"
+    ],
+    "disease_id": "P03",
+    "cf": 0.5,
+    "description": "Populasi serangga kecil cokelat di pangkal batang",
+    "role": "Gejala Vektor",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R09",
+    "antecedents": [
+      "G04"
+    ],
+    "disease_id": "P04",
+    "cf": 0.85,
+    "description": "Bercak bulat/oval cokelat tua tersebar di daun",
+    "role": "Gejala Utama",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R10",
+    "antecedents": [
+      "G17"
+    ],
+    "disease_id": "P04",
+    "cf": 0.65,
+    "description": "Bercak cokelat kehitaman pada kulit gabah",
+    "role": "Gejala Pendukung",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R11",
+    "antecedents": [
+      "G05"
+    ],
+    "disease_id": "P05",
+    "cf": 0.9,
+    "description": "Bercak keabu-abuan/beras basah pada pelepah",
+    "role": "Gejala Utama",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R12",
+    "antecedents": [
+      "G12"
+    ],
+    "disease_id": "P05",
+    "cf": 0.75,
+    "description": "Butiran sklerotia / gumpalan benang di pelepah",
+    "role": "Gejala Spesifik",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R13",
+    "antecedents": [
+      "G09"
+    ],
+    "disease_id": "P06",
+    "cf": 0.85,
+    "description": "Pangkal batang dekat air membusuk kehitaman",
+    "role": "Gejala Utama",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R14",
+    "antecedents": [
+      "G10"
+    ],
+    "disease_id": "P06",
+    "cf": 0.7,
+    "description": "Batang mudah patah/rebah",
+    "role": "Gejala Pendukung",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R15",
+    "antecedents": [
+      "G12"
+    ],
+    "disease_id": "P06",
+    "cf": 0.8,
+    "description": "Butiran sklerotia cokelat di dalam batang",
+    "role": "Gejala Spesifik",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R16",
+    "antecedents": [
+      "G08"
+    ],
+    "disease_id": "H01",
+    "cf": 0.9,
+    "description": "Daun menguning serentak lalu layu (hopperburn)",
+    "role": "Gejala Utama",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R17",
+    "antecedents": [
+      "G19"
+    ],
+    "disease_id": "H01",
+    "cf": 0.95,
+    "description": "Populasi serangga kecil cokelat di pangkal batang",
+    "role": "Gejala Spesifik",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R18",
+    "antecedents": [
+      "G11"
+    ],
+    "disease_id": "H02",
+    "cf": 0.85,
+    "description": "Lubang kecil pada batang disertai serbuk gergaji",
+    "role": "Gejala Utama",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R19",
+    "antecedents": [
+      "G15"
+    ],
+    "disease_id": "H02",
+    "cf": 0.9,
+    "description": "Malai hampa berwarna putih tegak (sundep/beluk)",
+    "role": "Gejala Utama",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R20",
+    "antecedents": [
+      "G21"
+    ],
+    "disease_id": "H02",
+    "cf": 0.7,
+    "description": "Kelompok telur terbungkus bulu cokelat di daun",
+    "role": "Tanda Hama",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R21",
+    "antecedents": [
+      "G16"
+    ],
+    "disease_id": "H03",
+    "cf": 0.9,
+    "description": "Bulir hampa, mengkerut, berbau menyengat",
+    "role": "Gejala Utama",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R22",
+    "antecedents": [
+      "G17"
+    ],
+    "disease_id": "H03",
+    "cf": 0.6,
+    "description": "Bercak kotoran pada kulit gabah",
+    "role": "Gejala Pendukung",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R23",
+    "antecedents": [
+      "G13"
+    ],
+    "disease_id": "H04",
+    "cf": 0.8,
+    "description": "Batang terpotong di dekat pangkal tanah",
+    "role": "Gejala Utama",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R24",
+    "antecedents": [
+      "G20"
+    ],
+    "disease_id": "H04",
+    "cf": 0.95,
+    "description": "Kelompok telur merah muda/pink di pelepah",
+    "role": "Tanda Hama",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R25",
+    "antecedents": [
+      "G06"
+    ],
+    "disease_id": "H05",
+    "cf": 0.85,
+    "description": "Daun menggulung / terpotong / transparan",
+    "role": "Gejala Utama",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R26",
+    "antecedents": [
+      "G22"
+    ],
+    "disease_id": "H05",
+    "cf": 0.9,
+    "description": "Ulat bertanduk/bergaris di balik daun",
+    "role": "Tanda Hama",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R27",
+    "antecedents": [
+      "G13"
+    ],
+    "disease_id": "H06",
+    "cf": 0.75,
+    "description": "Batang terpotong rapi dekat pangkal",
+    "role": "Gejala Utama",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R28",
+    "antecedents": [
+      "G18"
+    ],
+    "disease_id": "H06",
+    "cf": 0.85,
+    "description": "Malai/bulir terpotong/hilang acak di sawah",
+    "role": "Gejala Utama",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  },
+  {
+    "id": "R29",
+    "antecedents": [
+      "G23"
+    ],
+    "disease_id": "H06",
+    "cf": 0.9,
+    "description": "Kerusakan rumpun melingkar / jejak kaki dekat pematang",
+    "role": "Tanda Hama",
+    "source_ids": [
+      "DATASET_V2"
+    ]
+  }
+]
